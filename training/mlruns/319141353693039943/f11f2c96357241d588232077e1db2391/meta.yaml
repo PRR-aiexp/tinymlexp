@@ -1,0 +1,14 @@
+artifact_uri: file:///content/mlruns/319141353693039943/f11f2c96357241d588232077e1db2391/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '319141353693039943'
+lifecycle_stage: active
+run_id: f11f2c96357241d588232077e1db2391
+run_name: hilarious-finch-347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766779444000
+status: 1
+tags: []
+user_id: root

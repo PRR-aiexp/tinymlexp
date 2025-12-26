@@ -1,0 +1,10 @@
+artifact_location: file:///content/mlruns/319141353693039943/models/m-47c892bb18464d70879e3156c0229953/artifacts
+creation_timestamp: 1766779045270
+experiment_id: '319141353693039943'
+last_updated_timestamp: 1766779062004
+model_id: m-47c892bb18464d70879e3156c0229953
+model_type: null
+name: keras_mnist_model
+source_run_id: 5179ff3e1c1e495cb42ff36b4d996856
+status: 2
+status_message: null
